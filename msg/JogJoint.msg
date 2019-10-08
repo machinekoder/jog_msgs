@@ -4,7 +4,7 @@
 
 # header message. You must set frame_id to define the reference
 # coordinate system of the displacement
-Header header
+std_msgs/Header header
 
 # Name list of the joints. You don't need to specify all joint of the
 # robot. Joint names are case-sensitive.

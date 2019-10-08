@@ -5,7 +5,7 @@
 
 # header message. You must set frame_id to define the reference
 # coordinate system of the displacement
-Header header
+std_msgs/Header header
 
 # Name of JointGroup of MoveIt!
 string group_name
